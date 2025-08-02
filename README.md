@@ -120,6 +120,3 @@ python src/predict.py --model_path models/cancernet_best.h5 --image_dir data/IDC
 
 This project is for educational and research purposes only. Not for clinical or commercial use.
 
----
-
-Do you want me to generate the **GitHub repository ZIP structure** (ready-to-upload) for you next?
